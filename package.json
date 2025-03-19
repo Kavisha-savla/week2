@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "clr",
+  "version": "1.0.0",
+  "description": "sit 725 T2 week 2 prac",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavisha-savla/week2.git"
+  },
+  "author": "kavisha savla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kavisha-savla/week2/issues"
+  },
+  "homepage": "https://github.com/Kavisha-savla/week2#readme"
+}
